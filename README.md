@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Amol Shinde</h1>
+<h3 align="center">Software Developer | Java | Web Development</h3>
 
-<!--
-**amols9517/amols9517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 👨‍💻 All of my projects are available on my GitHub
+- 💬 Ask me about **Java, Python, Web Development**
+- 📫 How to reach me: amols9517@email.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Languages and Tools
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,github,mysql,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Amol's GitHub stats](https://github-readme-stats.vercel.app/api?username=amols9517&show_icons=true&theme=tokyonight)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=amols9517&theme=tokyonight)
+
+### 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amols9517&layout=compact&theme=tokyonight)
