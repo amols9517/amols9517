@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amol Shinde</h1>
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Learner;Building+Cool+Projects&center=true&width=500&height=45">
+</p>
+
 <h3 align="center">Software Developer | Java | Web Development</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
@@ -24,7 +29,4 @@
 ### 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amols9517&layout=compact&theme=tokyonight)
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Learner;Building+Cool+Projects&center=true&width=500&height=45">
-</p>
 
