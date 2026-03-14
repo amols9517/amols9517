@@ -23,3 +23,8 @@
 
 ### 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amols9517&layout=compact&theme=tokyonight)
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Learner;Building+Cool+Projects&center=true&width=500&height=45">
+</p>
+
