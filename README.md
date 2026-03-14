@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amol Shinde</h1>
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Learner;Building+Cool+Projects&center=true&width=500&height=45">
+<h4><img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Learner;Building+Cool+Projects&center=true&width=500&height=45"></h4>
 
 
 <h3 align="center">Software Developer | Java | Web Development</h3>
